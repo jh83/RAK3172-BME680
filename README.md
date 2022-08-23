@@ -2,7 +2,7 @@
 
 RAK3172 LoRaWAN module from RAKwireless with a BME680 environmental sensor device connected to it.
 
-[Device](img/endDevice.png)
+![LoRaWAN Device](img/endDevice.png)
 
 ## BME680
 
@@ -30,4 +30,4 @@ The reason behind this behavior is that a cloud service is built around this dem
 
 ## More information
 
-More information about the solution built with MongoDB Atlas services for this end-device can be found here: [Integrating The Things Network with MongoDB Atlas]([img/endDevice.png](https://www.joholtech.com/blog/2022/08/20/mongodbatlas-ttn.htm))
+More information about the solution built with MongoDB Atlas services for this end-device can be found here: [Integrating The Things Network with MongoDB Atlas](https://www.joholtech.com/blog/2022/08/20/mongodbatlas-ttn.html)
